@@ -3,8 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Debora Princepe
-description: Data Scientist
-avatar: /assets/foto.jpg
+logo: /assets/foto.jpg
 location: Itatiba, SP - Brazil
 email: deborapr@gmail.com
 linkedin_url: https://linkedin.com/in/debora-princepe
