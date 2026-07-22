@@ -1,8 +1,8 @@
 ## About me
 
-Physicist experienced in complex systems and eco-evolutionary modeling, also engaged in data science, statistical analysis, and data-driven approaches
+Physicist with a background in complex systems and eco-evolutionary modeling, now focused on data science and statistical analysis.
 
-#### Technical Skills: Python, SQL, MATLAB, Fortran
+### Technical Skills: Python, SQL, MATLAB, Fortran
 
 ## Education
 - Ph.D., Physics | Unicamp (_Jan 2018_)								       		 			        		
