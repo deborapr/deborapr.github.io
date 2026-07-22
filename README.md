@@ -1,15 +1,19 @@
-Hello World!
-
 # Data Scientist
 
-### Education
+#### Technical Skills: Python, SQL, MATLAB, Fortran
 
-Physics, PhD
+## Education
+- Ph.D., Physics | Unicamp (_Jan 2018_)								       		 			        		
+- B.S., Physics | Unicamp (_Jul 2011_)
 
-### Work Experience
+## Work Experience
+**ICTP**
+- implementing...
+- 
 
-Under construction
+## Projects
+### under construction
 
-### Projects
+## Talks & Lectures
 
-Under construction
+## Publications
