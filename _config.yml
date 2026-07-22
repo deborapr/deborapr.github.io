@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Debora Princepe
-logo: /assets/foto.jpg
+avatar: /assets/foto.jpg
 location: Itatiba, SP - Brazil
 email: deborapr@gmail.com
 linkedin_url: https://linkedin.com/in/debora-princepe
