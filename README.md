@@ -2,8 +2,6 @@
 
 Physicist with a background in complex systems and eco-evolutionary modeling, now focused on data science and statistical analysis.
 
-### Technical Skills: Python, SQL, MATLAB, Fortran
-
 ## Education
 - Ph.D., Physics | University of Campinas - Campinas, Brazil (08/2011 – 01/2018)
 - Visiting Ph.D. Student | Université Paris-Diderot  - Paris, France (03/2015 – 02/2016)                           		
@@ -12,13 +10,13 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
 ## Experience
 
 - Postdoctoral Fellow - International Centre for Theoretical Physics (ICTP) - Trieste, Italy (08/2023 - 12/2025) 
-  - Developed mathematical models to study the evolution of social and economical aspects in structured populations employing analytical and simulation-based approaches.
+<!-- _Developed mathematical models to study the evolution of social and economical aspects in structured populations employing analytical and simulation-based approaches._ -->
 
 - Postdoctoral Fellow - University of Campinas Campinas, Brazil (02/2018 – 07/2023)
-  - Conducted simulations and data-analysis for eco-evolutionary models, employing Fortran and Python; applied statistical methods and visualization tools to identify biodiversity patterns.
+<!-- _Conducted simulations and data-analysis for eco-evolutionary models, employing Fortran and Python; applied statistical methods and visualization tools to identify biodiversity patterns._-->
 
 - Visiting Postdoctoral Researcher - University of Pennsylvania Philadelphia, United States (03/2020 – 02/ 2021)
-  - Developed a Mathematica-based algorithm for statistical inference in a stochastic phoneme evolution model, analyzing large datasets.
+<!-- _Developed a Mathematica-based algorithm for statistical inference in a stochastic phoneme evolution model, analyzing large datasets._-->
 
 ## Projects
 
@@ -75,7 +73,9 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
   </tr> -->
 </table>
 
+## Skills
 
+Python · SQL · Fortran · Git · Machine Learning · Statistics
 
 <!-- ## Talks & Lectures -->
 
