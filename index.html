@@ -30,8 +30,11 @@
   .wrapper {
     display: flex;
     min-height: 100vh;
-    max-width: 1100px;
-    margin: 0 auto;
+    width: 100%;
+  }
+ 
+  section .content-inner {
+    max-width: 780px;
   }
 
   header {
@@ -43,8 +46,8 @@
   }
 
   header img {
-    width: 130px;
-    height: 130px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 0 0 3px var(--graphite-2);
@@ -115,6 +118,8 @@
   .item { margin-bottom: 1.4rem; }
   .item .role { font-weight: 600; }
   .item .meta { color: var(--muted-dark); font-size: 0.85rem; margin: 0.1rem 0 0.4rem 0; }
+  .item p { font-size: 0.88rem; color: var(--muted-dark); margin: 0; }
+
 
   .project-table {
     width: 100%;
@@ -194,6 +199,7 @@
     </header>
 
     <section>
+    <div class="content-inner"></div>
       <h2>About me</h2>
       <p>Physicist with a background in complex systems and eco-evolutionary modeling, now focused on data science and statistical analysis.</p>
 
@@ -203,7 +209,7 @@
         <div class="meta">08/2011 – 01/2018</div>
       </div>
       <div class="item">
-        <div class="role">PVisiting Ph.D. Student | Université Paris-Diderot - Paris, France</div>
+        <div class="role">Visiting Ph.D. Student | Université Paris-Diderot - Paris, France</div>
         <div class="meta">03/2015 – 02/2016</div>
       </div>
       <div class="item">
@@ -222,6 +228,7 @@
         <div class="meta">02/2018 – 07/2023</div>
         <p>Conducted simulations and data-analysis for eco-evolutionary models, employing Fortran and Python; applied statistical methods and visualization tools to identify biodiversity patterns.</p>
       </div>
+      <div class="item">
       <div class="role">Visiting Postdoctoral Researcher - University of Pennsylvania - Philadelphia, United States</div>
         <div class="meta">03/2020 – 02/ 2021</div>
         <p>Developed a Mathematica-based algorithm for statistical inference in a stochastic phoneme evolution model, analyzing large datasets.</p>
@@ -239,7 +246,7 @@
           </td>
         </tr>
         <tr>
-          <td class="icon-cell"><div class="icon-box">🧬</div></td>
+          <td class="icon-cell"><div class="icon-box"><img src="/assets/powerbi.png" alt="Power BI"></div></td>
           <td>
             <strong><a href="https://github.com/deborapr/PowerBI">Power BI Dashboards</a></strong><br>
             Dashboards developed as part of the Power BI Basic Course (Hashtag Treinamentos), focusing on data modeling, Power Query, DAX measures, and interactive dashboard design.<br>
@@ -256,11 +263,12 @@
         </tr>
       </table>
 
-      <h2>🛠️ Skills</h2>
+      <h2>Skills</h2>
       <div class="skills">
         <span>Python</span><span>SQL</span><span>Fortran</span>
         <span>Machine Learning</span><span>Statistics</span><span>Git</span>
       </div>
+    </div>
     </section>
   </div>
   <footer>Hosted on GitHub Pages</footer>
