@@ -5,15 +5,20 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
 ### Technical Skills: Python, SQL, MATLAB, Fortran
 
 ## Education
-- Ph.D., Physics | Unicamp (_Jan 2018_)								       		 			        		
-- B.S., Physics | Unicamp (_Jul 2011_)
+- Ph.D., Physics | University of Campinas - Campinas, Brazil (08/2011 – 01/2018)
+- Visiting Ph.D. Student | Université Paris-Diderot  - Paris, France (03/2015 – 02/2016)                           		
+- B.S., Physics | University of Campinas - Campinas, Brazil (03/2007 – 07/2011)
 
 ## Experience
 
-**ICTP**
-08/2023 - 12/2025
-- implementing...
-- 
+- Postdoctoral Fellow - International Centre for Theoretical Physics (ICTP) - Trieste, Italy (08/2023 - 12/2025) 
+  - Developed mathematical models to study the evolution of social and economical aspects in structured populations employing analytical and simulation-based approaches.
+
+- Postdoctoral Fellow - University of Campinas Campinas, Brazil (02/2018 – 07/2023)
+  - Conducted simulations and data-analysis for eco-evolutionary models, employing Fortran and Python; applied statistical methods and visualization tools to identify biodiversity patterns.
+
+- Visiting Postdoctoral Researcher - University of Pennsylvania Philadelphia, United States (03/2020 – 02/ 2021)
+  - Developed a Mathematica-based algorithm for statistical inference in a stochastic phoneme evolution model, analyzing large datasets.
 
 ## Projects
 
@@ -34,12 +39,12 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
   <tr>
     <td align="center" width="120">
       <a href="https://github.com/deborapr/PowerBI">
-        <img src="assets/icon-projeto1.png" width="80" alt="Power BI" /><br />
+        <img src="assets/powerbi.png" width="80" alt="Power BI" /><br />
       </a>
     </td>
     <td>
       <strong><a href="[https://github.com/deborapr/projeto-1](https://github.com/deborapr/PowerBI)">Power BI Projects</a></strong><br />
-      Dashboards developed as part of the Power BI Basic Course (Hashtag Treinamentos), focusing on data modeling, Power Query, DAX measures, and interactive dashboard design..<br />
+      Dashboards developed as part of the Power BI Basic Course (Hashtag Treinamentos), focusing on data modeling, Power Query, DAX measures, and interactive dashboard design.<br />
       <sub>Tech: Power BI · Power Query · DAX </sub>
     </td>
   </tr>
