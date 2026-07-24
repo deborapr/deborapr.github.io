@@ -23,14 +23,14 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
 <table>
   <tr>
     <td align="center" width="120">
-      <a href="https://github.com/deborapr/projeto-1">
-        <img src="assets/icon-projeto1.png" width="80" alt="Projeto 1" /><br />
+      <a href="https://github.com/deborapr/arxiv-ai-analysis">
+        <img src="assets/arxiv_logo.png" width="80" alt="arxiv-ai-analysis" /><br />
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/deborapr/projeto-1">Nome do Projeto 1</a></strong><br />
-      Resumo direto em uma ou duas linhas: o que o projeto faz e qual problema resolve.<br />
-      <sub>Tech: React · Node.js · PostgreSQL</sub>
+      <strong><a href="https://github.com/deborapr/projeto-1">Analysis of AI papers on arXiv</a></strong><br />
+      Exploratory analysis of the AI research explosion using arXiv metadata: trends, vocabulary, and cross-field penetration.<br />
+      <sub>Tech: Pandas · NumPy · Matplotlib · SciPy </sub>
     </td>
   </tr>
 
