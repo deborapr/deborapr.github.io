@@ -24,7 +24,7 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
   <tr>
     <td align="center" width="120">
       <a href="https://github.com/deborapr/arxiv-ai-analysis">
-        <img src="assets/arxiv_logo.png" width="80" alt="arxiv-ai-analysis" /><br />
+        <img src="assets/arxiv-logo.png" width="80" alt="arxiv-ai-analysis" /><br />
       </a>
     </td>
     <td>
