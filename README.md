@@ -28,7 +28,7 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/deborapr/projeto-1">Analysis of AI papers on arXiv</a></strong><br />
+      <strong><a href="https://github.com/deborapr/arxiv-ai-analysis">Analysis of AI papers on arXiv</a></strong><br />
       Exploratory analysis of the AI research explosion using arXiv metadata: trends, vocabulary, and cross-field penetration.<br />
       <sub>Tech: Pandas · NumPy · Matplotlib · SciPy </sub>
     </td>
@@ -41,7 +41,7 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
       </a>
     </td>
     <td>
-      <strong><a href="[https://github.com/deborapr/projeto-1](https://github.com/deborapr/PowerBI)">Power BI Projects</a></strong><br />
+      <strong><a href="[https://github.com/deborapr/PowerBI]">Power BI Projects</a></strong><br />
       Dashboards developed as part of the Power BI Basic Course (_Hashtag Treinamentos_), focusing on data modeling, Power Query, DAX measures, and interactive dashboard design.<br />
       <sub>Tech: Power BI · Power Query · DAX </sub>
     </td>
