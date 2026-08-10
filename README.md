@@ -30,7 +30,7 @@ Physicist with a background in complex systems and eco-evolutionary modeling, no
     <td>
       <strong><a href="https://github.com/deborapr/arxiv-ai-analysis">Analysis of AI papers on arXiv</a></strong><br />
       How did AI take over science? An analysis of 2.6M arXiv papers from 1991 to 2024.<br />
-      <sub>Tech: Pandas · NumPy · Matplotlib · SciPy </sub>
+      <sub>Tech: Pandas · NumPy · Matplotlib · SciPy · SQLite </sub>
     </td>
   </tr>
 
